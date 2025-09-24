@@ -23,7 +23,7 @@ repository               : "qwang819/qwang819.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot copy.jpg"
+  avatar           : "headshot.jpg"
   name             : "Qian Wang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics"
