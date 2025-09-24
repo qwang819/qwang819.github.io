@@ -9,12 +9,7 @@ Email: qwang819@umd.edu
 
 ## Working Papers
 
-**1. 
-
-**2. 
 
 
 ## Work in Progress
-
-**3.
 
