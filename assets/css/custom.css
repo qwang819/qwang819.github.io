@@ -1,0 +1,14 @@
+/* Enlarge and style the author photo in the sidebar */
+.author__avatar {
+  text-align: center;   /* keep it centered */
+  margin-bottom: 1rem;  /* space below the image */
+}
+
+.author__avatar img {
+  max-width: 220px;     /* increase size (default ~100px) */
+  width: 100%;
+  height: auto;
+  border-radius: 50%;   /* keeps it circular */
+  border: 2px solid #ddd; /* subtle border */
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15); /* soft shadow */
+}
