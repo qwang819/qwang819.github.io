@@ -14,6 +14,17 @@ I am on the 2025/26 job market. Here is my Curriculum Vitae.
 
 Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
 
+## Job Market Paper
+
+- **Paper Title** . *Year*. 
+
+  <details>
+    <summary><strong>Abstract</strong></summary>
+    <p>
+    One-paragraph abstract goes here. You can use full Markdown **bold**, *italics*, links, line breaks, etc.
+    </p>
+  </details>
+
 ## Working Papers
 
 
