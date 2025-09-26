@@ -16,7 +16,7 @@ Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
 
 ## Job Market Paper
 
-- **Aligning Market and Social Preferences: Technological Path Choice in China’s EV Battery** . *Sep. 2025*. 
+- **Aligning Market and Social Preferences: Technological Path Choice in China’s EV Battery** . *Sep. 2025*.
 *Draft Coming Soon, Feel Free to Email me About Current Draft* 
   <details>
     <summary><strong>Abstract</strong></summary>
@@ -29,7 +29,7 @@ Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
 
 - **Horizontal Mergers and Rival Market Structure**
 with <a href="https://www.shanglyudeng.com/" style="color: #494e52;">Shanglyu Deng</a>, <a href="https://www.marioleccese.com/" style="color: #494e52;">Mario Leccese</a>, <a href="http://www.asweeting.com/" style="color: #494e52;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #494e52;">Xuezhen Tao</a>
-| [[Working Paper]]
+[[Working Paper]]
 
  <details>
    <summary><strong>Abstract</strong></summary>
@@ -40,6 +40,7 @@ with <a href="https://www.shanglyudeng.com/" style="color: #494e52;">Shanglyu De
 
  - **Monopoly and Monopsony in a Networked Economy**
 with <a href="https://www.brunopellegrino.com/" style="color: #494e52;">Bruno Pellegrino</a>
+
 [[Working Paper]]
 
  <details>
@@ -51,6 +52,7 @@ with <a href="https://www.brunopellegrino.com/" style="color: #494e52;">Bruno Pe
 
  - **Covid-19 Fiscal Spending and Job Openings**
 with <a href="https://jboehnke.com/" style="color: #494e52;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #494e52;">Richard Freeman</a>, Yuxi Yang, and <a href="https://yangyou1.weebly.com/" style="color: #494e52;">Yang You</a>
+
 [[Working Paper]](https://yangyou1.weebly.com/uploads/1/3/3/8/133813498/job_market_s_reaction_to_covid_spending_v1.pdf)
 
  <details>
@@ -63,6 +65,7 @@ with <a href="https://jboehnke.com/" style="color: #494e52;">Jörn Boehnke</a>, 
  - **Revisiting The Relationship Between Competition and Price Dispersion**
 with Yihui Fu
 *Finalist of Antitrust Writing Awards, Concurrences, 2023*
+
 [[Working Paper]](https://www.dropbox.com/scl/fi/cwe8wjpc9m2pyeo3v6frn/airline_price_dispersion.pdf?rlkey=x8mmmu6po61mmyfe6ltvksy0b&st=3qs6mtej&dl=0)
 
  <details>
@@ -81,7 +84,7 @@ with <a href="https://www.louispreonas.com/" style="color: #494e52;">Louis Preon
 
  - **Output Signaling in Oligopoly**
 with <a href="http://www.asweeting.com/" style="color: #494e52;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #494e52;">Xuezhen Tao</a>
-| [[Previous Version CEPR Discussion Paper DP19757]](https://cepr.org/publications/dp19757)
+[[Previous Version CEPR Discussion Paper DP19757]](https://cepr.org/publications/dp19757)
 
  - **Will the Ban on Overbooking in the Airline Industry Backfire on Consumers?**
 with <a href="https://www.gingerjin.com/" style="color: #494e52;">Ginger Jin</a>
