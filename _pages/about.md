@@ -17,6 +17,7 @@ Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
 ## Job Market Paper
 
 **1. Aligning Market and Social Preferences: Technological Path Choice in China’s EV Battery**  
+*Dean Research Initiative Grant, 2025*
 *Draft Coming Soon, Feel Free to Email me About Current Draft* 
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
    <summary><span style="font-weight:300;">Abstract</span></summary>
@@ -29,7 +30,7 @@ Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
 
 **2. Horizontal Mergers and Rival Market Structure**  
 with <a href="https://www.shanglyudeng.com/" style="color: #2A5DB0;">Shanglyu Deng</a>, <a href="https://www.marioleccese.com/" style="color: #2A5DB0;">Mario Leccese</a>, <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #2A5DB0;">Xuezhen Tao</a>  
-[[Working Paper]]
+[Working Paper]
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><span style="font-weight:300;">Abstract</span></summary>
   <p style="text-align: justify;">
@@ -39,7 +40,7 @@ with <a href="https://www.shanglyudeng.com/" style="color: #2A5DB0;">Shanglyu De
 
 **3. Monopoly and Monopsony in a Networked Economy**  
 with <a href="https://www.brunopellegrino.com/" style="color: #2A5DB0;">Bruno Pellegrino</a>  
-[[Working Paper]]
+[Working Paper]
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
    <summary><span style="font-weight:300;">Abstract</span></summary>
    <p style="text-align: justify;">
