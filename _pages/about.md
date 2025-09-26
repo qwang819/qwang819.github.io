@@ -18,7 +18,7 @@ Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
 
 **1. Aligning Market and Social Preferences: Technological Path Choice in China’s EV Battery** . *Sep. 2025*  
 *Draft Coming Soon, Feel Free to Email me About Current Draft* 
-  <details>
+  <details style="margin-bottom: 2rem;">
     <summary><strong>Abstract</strong></summary>
     <p>
     
@@ -30,9 +30,9 @@ Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
 **2. Horizontal Mergers and Rival Market Structure**
 with <a href="https://www.shanglyudeng.com/" style="color: #494e52;">Shanglyu Deng</a>, <a href="https://www.marioleccese.com/" style="color: #494e52;">Mario Leccese</a>, <a href="http://www.asweeting.com/" style="color: #494e52;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #494e52;">Xuezhen Tao</a>  
 [[Working Paper]]
-<details>
+<details style="margin-bottom: 2rem;">
   <summary><strong>Abstract</strong></summary>
-  <p>
+  <p style="text-align: justify;">
   Traditional measures of market concentration used when screening for anticom- petitive mergers, or applying structural presumptions, such as the market-level HHI, depend on the concentration of sales among non-merging rivals, as well as the shares of the merging parties. While the size of cost efficiencies needed to offset the market power effects of a merger, assuming static Nash equilibrium play both before and after a merger, depends only on the shares, characteristics and margins of the merging firms (Nocke and Whinston (2022)), we illustrate how, conditional on the shares and margins of the merging firms, rival market structure is often highly correlated with how rivals’ prices and outputs would change in response to changes in the prices or outputs of the parties, which in turn affects the profitability of mergers and the magnitude of any post-merger price and quantity changes when other efficiencies, or no efficiencies, are realized. We show that a simply calculated rival HHI measure is correlated with these changes for both price- and quantity-competition, for a variety of demand systems. We also illustrate how rival market structure can affect the incentives of a merged firm to engage in strategic behavior that may obscure the size of its realized efficiencies.
   </p>
 </details>
