@@ -80,8 +80,14 @@ with <a href="https://www.louispreonas.com/" style="color: #2A5DB0;">Louis Preon
 
 **7. Output Signaling in Oligopoly**  
 with <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #2A5DB0;">Xuezhen Tao</a>  
-[<a href="https://cepr.org/publications/dp19757" style="color:#003366; font-weight:300">
+[<a href="https://cepr.org/publications/dp19757" style="color:#003366; font-weight:550">
 Previous Version *CEPR Discussion Paper DP19757*</a>]
+<details style="margin-top: -0.5rem; margin-bottom: 1rem;">
+  <summary><span style="font-weight:300;">Abstract</span></summary>
+  <p style="text-align: justify;">
+  We consider models of repeated oligopoly competition where firms set quantities and have private information about their serially correlated marginal costs. This structure creates strategic incentives for firms to signal information about their costs using output choices. We show that effects on outputs, production efficiency and welfare can be much larger than the effects of incomplete information in one-shot models, and that these differences persist even in oligopolies with large numbers of firms. In contrast, in price-setting games, we always find smaller effects in less concentrated markets. We illustrate these effects in an application by extending Aryal and Zincenko (2024) analysis of the world crude oil market, showing that allowing signaling changes conclusions and counterfactuals significantly.
+  </p>
+</details>
 
 **8. Will the Ban on Overbooking in the Airline Industry Backfire on Consumers?**  
 with <a href="https://www.gingerjin.com/" style="color: #2A5DB0;">Ginger Jin</a>  
