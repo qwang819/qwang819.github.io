@@ -16,7 +16,7 @@ Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
 
 ## Job Market Paper
 
-- **Aligning Market and Social Preferences: Technological Path Choice in China’s EV Battery** . *Sep. 2025*.
+**1. Aligning Market and Social Preferences: Technological Path Choice in China’s EV Battery** . *Sep. 2025*  
 *Draft Coming Soon, Feel Free to Email me About Current Draft* 
   <details>
     <summary><strong>Abstract</strong></summary>
@@ -27,20 +27,19 @@ Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
 
 ## Working Papers
 
-- **Horizontal Mergers and Rival Market Structure**
-with <a href="https://www.shanglyudeng.com/" style="color: #494e52;">Shanglyu Deng</a>, <a href="https://www.marioleccese.com/" style="color: #494e52;">Mario Leccese</a>, <a href="http://www.asweeting.com/" style="color: #494e52;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #494e52;">Xuezhen Tao</a>
+**2. Horizontal Mergers and Rival Market Structure**
+with <a href="https://www.shanglyudeng.com/" style="color: #494e52;">Shanglyu Deng</a>, <a href="https://www.marioleccese.com/" style="color: #494e52;">Mario Leccese</a>, <a href="http://www.asweeting.com/" style="color: #494e52;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #494e52;">Xuezhen Tao</a>  
 [[Working Paper]]
 
  <details>
    <summary><strong>Abstract</strong></summary>
    <p>
-   
+   Traditional measures of market concentration used when screening for anticom- petitive mergers, or applying structural presumptions, such as the market-level HHI, depend on the concentration of sales among non-merging rivals, as well as the shares of the merging parties. While the size of cost efficiencies needed to offset the market power effects of a merger, assuming static Nash equilibrium play both before and after a merger, depends only on the shares, characteristics and margins of the merging firms (Nocke and Whinston (2022)), we illustrate how, conditional on the shares and margins of the merging firms, rival market structure is often highly correlated with how rivals’ prices and outputs would change in response to changes in the prices or outputs of the parties, which in turn affects the profitability of mergers and the magnitude of any post-merger price and quantity changes when other efficiencies, or no efficiencies, are realized. We show that a simply calculated rival HHI measure is correlated with these changes for both price- and quantity-competition, for a variety of demand systems. We also illustrate how rival market structure can affect the incentives of a merged firm to engage in strategic behavior that may obscure the size of its realized efficiencies.
    </p>
  </details>
 
- - **Monopoly and Monopsony in a Networked Economy**
-with <a href="https://www.brunopellegrino.com/" style="color: #494e52;">Bruno Pellegrino</a>
-
+**3. Monopoly and Monopsony in a Networked Economy**
+with <a href="https://www.brunopellegrino.com/" style="color: #494e52;">Bruno Pellegrino</a>  
 [[Working Paper]]
 
  <details>
@@ -50,9 +49,8 @@ with <a href="https://www.brunopellegrino.com/" style="color: #494e52;">Bruno Pe
    </p>
  </details>
 
- - **Covid-19 Fiscal Spending and Job Openings**
-with <a href="https://jboehnke.com/" style="color: #494e52;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #494e52;">Richard Freeman</a>, Yuxi Yang, and <a href="https://yangyou1.weebly.com/" style="color: #494e52;">Yang You</a>
-
+**4. Covid-19 Fiscal Spending and Job Openings**
+with <a href="https://jboehnke.com/" style="color: #494e52;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #494e52;">Richard Freeman</a>, Yuxi Yang, and <a href="https://yangyou1.weebly.com/" style="color: #494e52;">Yang You</a>  
 [[Working Paper]](https://yangyou1.weebly.com/uploads/1/3/3/8/133813498/job_market_s_reaction_to_covid_spending_v1.pdf)
 
  <details>
@@ -62,10 +60,9 @@ with <a href="https://jboehnke.com/" style="color: #494e52;">Jörn Boehnke</a>, 
    </p>
  </details>
 
- - **Revisiting The Relationship Between Competition and Price Dispersion**
-with Yihui Fu
+**5. Revisiting The Relationship Between Competition and Price Dispersion**
+with Yihui Fu  
 *Finalist of Antitrust Writing Awards, Concurrences, 2023*
-
 [[Working Paper]](https://www.dropbox.com/scl/fi/cwe8wjpc9m2pyeo3v6frn/airline_price_dispersion.pdf?rlkey=x8mmmu6po61mmyfe6ltvksy0b&st=3qs6mtej&dl=0)
 
  <details>
@@ -78,16 +75,16 @@ with Yihui Fu
 
 ## Work in Progress
 
- - **Supplier Market Power in the Energy Transition: An Empirical Study of Coal Mines, Railroads, and Power Plants**
-with <a href="https://www.louispreonas.com/" style="color: #494e52;">Louis Preonas</a>, <a href="http://www.asweeting.com/" style="color: #494e52;">Andrew Sweeting</a>, and Jingyi Xing
+**6. Supplier Market Power in the Energy Transition: An Empirical Study of Coal Mines, Railroads, and Power Plants**
+with <a href="https://www.louispreonas.com/" style="color: #494e52;">Louis Preonas</a>, <a href="http://www.asweeting.com/" style="color: #494e52;">Andrew Sweeting</a>, and Jingyi Xing  
 *NSF Award No. 2447007, 2025*
 
- - **Output Signaling in Oligopoly**
-with <a href="http://www.asweeting.com/" style="color: #494e52;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #494e52;">Xuezhen Tao</a>
+**7. Output Signaling in Oligopoly**
+with <a href="http://www.asweeting.com/" style="color: #494e52;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #494e52;">Xuezhen Tao</a>  
 [[Previous Version CEPR Discussion Paper DP19757]](https://cepr.org/publications/dp19757)
 
- - **Will the Ban on Overbooking in the Airline Industry Backfire on Consumers?**
-with <a href="https://www.gingerjin.com/" style="color: #494e52;">Ginger Jin</a>
+**8. Will the Ban on Overbooking in the Airline Industry Backfire on Consumers?**
+with <a href="https://www.gingerjin.com/" style="color: #494e52;">Ginger Jin</a>  
 *Poster Presentation at DC Industrial-Organization Day, May 2024*
 
  <details>
@@ -98,8 +95,8 @@ with <a href="https://www.gingerjin.com/" style="color: #494e52;">Ginger Jin</a>
    </p>
  </details>
 
- - **The Pro-competitive Effect of Vertical Mergers Using Large Invoice Data**
-with <a href="https://www.sem.tsinghua.edu.cn/en/info/1216/7050.htm" style="color: #494e52;">Wu Zhu</a>
+**9. The Pro-competitive Effect of Vertical Mergers Using Large Invoice Data**
+with <a href="https://www.sem.tsinghua.edu.cn/en/info/1216/7050.htm" style="color: #494e52;">Wu Zhu</a>  
 
  <details>
    <summary><strong>Abstract</strong></summary>
@@ -108,8 +105,9 @@ with <a href="https://www.sem.tsinghua.edu.cn/en/info/1216/7050.htm" style="colo
    </p>
  </details>
 
- - **Decoding Employers’ Remote Work Preference with Large Language Models**
-with <a href="https://jboehnke.com/" style="color: #494e52;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #494e52;">Richard Freeman</a>, <a href="https://yangyou1.weebly.com/" style="color: #494e52;">Yang You</a>, and Boao Zhan
+**10. Decoding Employers’ Remote Work Preference with Large Language Models**
+with <a href="https://jboehnke.com/" style="color: #494e52;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #494e52;">Richard Freeman</a>, <a href="https://yangyou1.weebly.com/" style="color: #494e52;">Yang You</a>, and Boao Zhan  
+*Draft Coming Soon on NBER*
 
  <details>
    <summary><strong>Abstract</strong></summary>
