@@ -19,7 +19,7 @@ Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
 **1. Aligning Market and Social Preferences: Technological Path Choice in China’s EV Battery**  
 *Draft Coming Soon, Feel Free to Email me About Current Draft* 
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
-   <summary><strong>Abstract</strong></summary>
+   <summary>Abstract</summary>
    <p>
    
    </p>
