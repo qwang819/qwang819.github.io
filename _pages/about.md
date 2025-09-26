@@ -16,7 +16,7 @@ Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
 
 ## Job Market Paper
 
-**1. Aligning Market and Social Preferences: Technological Path Choice in China’s EV Battery** . *Sep. 2025*  
+**1. Aligning Market and Social Preferences: Technological Path Choice in China’s EV Battery**  
 *Draft Coming Soon, Feel Free to Email me About Current Draft* 
   <details style="margin-bottom: 2rem;">
     <summary><strong>Abstract</strong></summary>
@@ -27,7 +27,7 @@ Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
 
 ## Working Papers
 
-**2. Horizontal Mergers and Rival Market Structure**
+**2. Horizontal Mergers and Rival Market Structure**  
 with <a href="https://www.shanglyudeng.com/" style="color: #494e52;">Shanglyu Deng</a>, <a href="https://www.marioleccese.com/" style="color: #494e52;">Mario Leccese</a>, <a href="http://www.asweeting.com/" style="color: #494e52;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #494e52;">Xuezhen Tao</a>  
 [[Working Paper]]
 <details style="margin-bottom: 2rem;">
@@ -37,7 +37,7 @@ with <a href="https://www.shanglyudeng.com/" style="color: #494e52;">Shanglyu De
   </p>
 </details>
 
-**3. Monopoly and Monopsony in a Networked Economy**
+**3. Monopoly and Monopsony in a Networked Economy**  
 with <a href="https://www.brunopellegrino.com/" style="color: #494e52;">Bruno Pellegrino</a>  
 [[Working Paper]]
 
@@ -48,7 +48,7 @@ with <a href="https://www.brunopellegrino.com/" style="color: #494e52;">Bruno Pe
    </p>
  </details>
 
-**4. Covid-19 Fiscal Spending and Job Openings**
+**4. Covid-19 Fiscal Spending and Job Openings**  
 with <a href="https://jboehnke.com/" style="color: #494e52;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #494e52;">Richard Freeman</a>, Yuxi Yang, and <a href="https://yangyou1.weebly.com/" style="color: #494e52;">Yang You</a>  
 [[Working Paper]](https://yangyou1.weebly.com/uploads/1/3/3/8/133813498/job_market_s_reaction_to_covid_spending_v1.pdf)
 
@@ -59,7 +59,7 @@ with <a href="https://jboehnke.com/" style="color: #494e52;">Jörn Boehnke</a>, 
    </p>
  </details>
 
-**5. Revisiting The Relationship Between Competition and Price Dispersion**
+**5. Revisiting The Relationship Between Competition and Price Dispersion**  
 with Yihui Fu  
 *Finalist of Antitrust Writing Awards, Concurrences, 2023*
 [[Working Paper]](https://www.dropbox.com/scl/fi/cwe8wjpc9m2pyeo3v6frn/airline_price_dispersion.pdf?rlkey=x8mmmu6po61mmyfe6ltvksy0b&st=3qs6mtej&dl=0)
@@ -74,15 +74,15 @@ with Yihui Fu
 
 ## Work in Progress
 
-**6. Supplier Market Power in the Energy Transition: An Empirical Study of Coal Mines, Railroads, and Power Plants**
+**6. Supplier Market Power in the Energy Transition: An Empirical Study of Coal Mines, Railroads, and Power Plants**  
 with <a href="https://www.louispreonas.com/" style="color: #494e52;">Louis Preonas</a>, <a href="http://www.asweeting.com/" style="color: #494e52;">Andrew Sweeting</a>, and Jingyi Xing  
 *NSF Award No. 2447007, 2025*
 
-**7. Output Signaling in Oligopoly**
+**7. Output Signaling in Oligopoly**  
 with <a href="http://www.asweeting.com/" style="color: #494e52;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #494e52;">Xuezhen Tao</a>  
 [[Previous Version CEPR Discussion Paper DP19757]](https://cepr.org/publications/dp19757)
 
-**8. Will the Ban on Overbooking in the Airline Industry Backfire on Consumers?**
+**8. Will the Ban on Overbooking in the Airline Industry Backfire on Consumers?**  
 with <a href="https://www.gingerjin.com/" style="color: #494e52;">Ginger Jin</a>  
 *Poster Presentation at DC Industrial-Organization Day, May 2024*
 
@@ -94,7 +94,7 @@ with <a href="https://www.gingerjin.com/" style="color: #494e52;">Ginger Jin</a>
    </p>
  </details>
 
-**9. The Pro-competitive Effect of Vertical Mergers Using Large Invoice Data**
+**9. The Pro-competitive Effect of Vertical Mergers Using Large Invoice Data**  
 with <a href="https://www.sem.tsinghua.edu.cn/en/info/1216/7050.htm" style="color: #494e52;">Wu Zhu</a>  
 
  <details>
@@ -104,7 +104,7 @@ with <a href="https://www.sem.tsinghua.edu.cn/en/info/1216/7050.htm" style="colo
    </p>
  </details>
 
-**10. Decoding Employers’ Remote Work Preference with Large Language Models**
+**10. Decoding Employers’ Remote Work Preference with Large Language Models**  
 with <a href="https://jboehnke.com/" style="color: #494e52;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #494e52;">Richard Freeman</a>, <a href="https://yangyou1.weebly.com/" style="color: #494e52;">Yang You</a>, and Boao Zhan  
 *Draft Coming Soon on NBER*
 
