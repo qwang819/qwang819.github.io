@@ -28,7 +28,7 @@ Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
 ## Working Papers
 
 **2. Horizontal Mergers and Rival Market Structure**  
-with <a href="https://www.shanglyudeng.com/" style="color: #494e52;">Shanglyu Deng</a>, <a href="https://www.marioleccese.com/" style="color: #494e52;">Mario Leccese</a>, <a href="http://www.asweeting.com/" style="color: #494e52;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #494e52;">Xuezhen Tao</a>  
+with <a href="https://www.shanglyudeng.com/" style="color: #2A5DB0;">Shanglyu Deng</a>, <a href="https://www.marioleccese.com/" style="color: #2A5DB0;">Mario Leccese</a>, <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #2A5DB0;">Xuezhen Tao</a>  
 [[Working Paper]]
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><strong>Abstract</strong></summary>
@@ -38,9 +38,8 @@ with <a href="https://www.shanglyudeng.com/" style="color: #494e52;">Shanglyu De
 </details>
 
 **3. Monopoly and Monopsony in a Networked Economy**  
-with <a href="https://www.brunopellegrino.com/" style="color: #494e52;">Bruno Pellegrino</a>  
+with <a href="https://www.brunopellegrino.com/" style="color: #2A5DB0;">Bruno Pellegrino</a>  
 [[Working Paper]]
-
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
    <summary><strong>Abstract</strong></summary>
    <p style="text-align: justify;">
@@ -49,9 +48,8 @@ with <a href="https://www.brunopellegrino.com/" style="color: #494e52;">Bruno Pe
 </details>
 
 **4. Covid-19 Fiscal Spending and Job Openings**  
-with <a href="https://jboehnke.com/" style="color: #494e52;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #494e52;">Richard Freeman</a>, Yuxi Yang, and <a href="https://yangyou1.weebly.com/" style="color: #494e52;">Yang You</a>  
+with <a href="https://jboehnke.com/" style="color: #2A5DB0;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #2A5DB0;">Richard Freeman</a>, Yuxi Yang, and <a href="https://yangyou1.weebly.com/" style="color: #2A5DB0;">Yang You</a>  
 [[Working Paper]](https://yangyou1.weebly.com/uploads/1/3/3/8/133813498/job_market_s_reaction_to_covid_spending_v1.pdf)
-
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><strong>Abstract</strong></summary>
   <p style="text-align: justify;">
@@ -63,7 +61,6 @@ with <a href="https://jboehnke.com/" style="color: #494e52;">Jörn Boehnke</a>, 
 with Yihui Fu  
 *Finalist of Antitrust Writing Awards, Concurrences, 2023*  
 [[Working Paper]](https://www.dropbox.com/scl/fi/cwe8wjpc9m2pyeo3v6frn/airline_price_dispersion.pdf?rlkey=x8mmmu6po61mmyfe6ltvksy0b&st=3qs6mtej&dl=0)
-
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><strong>Abstract</strong></summary>
   <p style="text-align: justify;">
@@ -75,17 +72,16 @@ with Yihui Fu
 ## Work in Progress
 
 **6. Supplier Market Power in the Energy Transition: An Empirical Study of Coal Mines, Railroads, and Power Plants**  
-with <a href="https://www.louispreonas.com/" style="color: #494e52;">Louis Preonas</a>, <a href="http://www.asweeting.com/" style="color: #494e52;">Andrew Sweeting</a>, and Jingyi Xing  
+with <a href="https://www.louispreonas.com/" style="color: #2A5DB0;">Louis Preonas</a>, <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting</a>, and Jingyi Xing  
 *NSF Award No. 2447007, 2025*
 
 **7. Output Signaling in Oligopoly**  
-with <a href="http://www.asweeting.com/" style="color: #494e52;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #494e52;">Xuezhen Tao</a>  
+with <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #2A5DB0;">Xuezhen Tao</a>  
 [[Previous Version CEPR Discussion Paper DP19757]](https://cepr.org/publications/dp19757)
 
 **8. Will the Ban on Overbooking in the Airline Industry Backfire on Consumers?**  
-with <a href="https://www.gingerjin.com/" style="color: #494e52;">Ginger Jin</a>  
+with <a href="https://www.gingerjin.com/" style="color: #2A5DB0;">Ginger Jin</a>  
 *Poster Presentation at DC Industrial-Organization Day, May 2024*
-
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><strong>Abstract</strong></summary>
   <p style="text-align: justify;">
@@ -95,8 +91,7 @@ with <a href="https://www.gingerjin.com/" style="color: #494e52;">Ginger Jin</a>
 </details>
 
 **9. The Pro-competitive Effect of Vertical Mergers Using Large Invoice Data**  
-with <a href="https://www.sem.tsinghua.edu.cn/en/info/1216/7050.htm" style="color: #494e52;">Wu Zhu</a>  
-
+with <a href="https://www.sem.tsinghua.edu.cn/en/info/1216/7050.htm" style="color: #2A5DB0;">Wu Zhu</a>  
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><strong>Abstract</strong></summary>
   <p style="text-align: justify;">
@@ -105,9 +100,8 @@ with <a href="https://www.sem.tsinghua.edu.cn/en/info/1216/7050.htm" style="colo
 </details>
 
 **10. Decoding Employers’ Remote Work Preference with Large Language Models**  
-with <a href="https://jboehnke.com/" style="color: #494e52;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #494e52;">Richard Freeman</a>, <a href="https://yangyou1.weebly.com/" style="color: #494e52;">Yang You</a>, and Boao Zhan  
+with <a href="https://jboehnke.com/" style="color: #2A5DB0;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #2A5DB0;">Richard Freeman</a>, <a href="https://yangyou1.weebly.com/" style="color: #2A5DB0;">Yang You</a>, and Boao Zhan  
 *Draft Coming Soon on NBER*
-
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><strong>Abstract</strong></summary>
   <p style="text-align: justify;">
