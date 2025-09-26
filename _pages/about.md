@@ -29,7 +29,7 @@ Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
 ## Working Papers
 
 **2. Horizontal Mergers and Rival Market Structure**  
-with <a href="https://www.shanglyudeng.com/" style="color: #2A5DB0;">Shanglyu Deng</a>, <a href="https://www.marioleccese.com/" style="color: #2A5DB0;">Mario Leccese</a>, <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #2A5DB0;">Xuezhen Tao</a>  
+with <a href="https://www.shanglyudeng.com/" style="color: #2A5DB0;">Shanglyu Deng</a>, <a href="https://www.marioleccese.com/" style="color: #2A5DB0;">Mario Leccese</a>, <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site:8000/" style="color: #2A5DB0;">Xuezhen Tao</a>  
 [Working Paper]  
 *Presentation by co-author at 23rd Annual International Industrial Organization Conference; 25th CEPR-JIE Conference on Applied Industrial Organization*  
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
@@ -80,7 +80,7 @@ with <a href="https://www.louispreonas.com/" style="color: #2A5DB0;">Louis Preon
 <span style="color:#990000; font-weight:600;">NSF Award No. 2447007, 2025</span>
 
 **7. Output Signaling in Oligopoly**  
-with <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #2A5DB0;">Xuezhen Tao</a>  
+with <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site:8000/" style="color: #2A5DB0;">Xuezhen Tao</a>  
 [<a href="https://cepr.org/publications/dp19757" style="color:#003366; font-weight:550">
 Previous Version *CEPR Discussion Paper DP19757*</a>]
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
