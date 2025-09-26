@@ -30,7 +30,8 @@ Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
 
 **2. Horizontal Mergers and Rival Market Structure**  
 with <a href="https://www.shanglyudeng.com/" style="color: #2A5DB0;">Shanglyu Deng</a>, <a href="https://www.marioleccese.com/" style="color: #2A5DB0;">Mario Leccese</a>, <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #2A5DB0;">Xuezhen Tao</a>  
-[Working Paper]
+[Working Paper]  
+*Presentation by co-author at 23rd Annual International Industrial Organization Conference; 25th CEPR-JIE Conference on Applied Industrial Organization*  
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><span style="font-weight:300;">Abstract</span></summary>
   <p style="text-align: justify;">
