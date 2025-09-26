@@ -77,9 +77,7 @@ Working Paper</a>]
 
 **6. Supplier Market Power in the Energy Transition: An Empirical Study of Coal Mines, Railroads, and Power Plants**  
 with <a href="https://www.louispreonas.com/" style="color: #2A5DB0;">Louis Preonas</a>, <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting</a>, and Jingyi Xing  
-<span style="color:#990000; font-weight:600;">
-NSF Award No. 2447007, 2025
-</span>
+<span style="color:#990000; font-weight:600;">NSF Award No. 2447007, 2025</span>
 
 **7. Output Signaling in Oligopoly**  
 with <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #2A5DB0;">Xuezhen Tao</a>  
