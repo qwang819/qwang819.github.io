@@ -49,7 +49,7 @@ with <a href="https://www.brunopellegrino.com/" style="color: #2A5DB0;">Bruno Pe
 
 **4. Covid-19 Fiscal Spending and Job Openings**  
 with <a href="https://jboehnke.com/" style="color: #2A5DB0;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #2A5DB0;">Richard Freeman</a>, Yuxi Yang, and <a href="https://yangyou1.weebly.com/" style="color: #2A5DB0;">Yang You</a>  
-[<a href="https://yangyou1.weebly.com/uploads/1/3/3/8/133813498/job_market_s_reaction_to_covid_spending_v1.pdf" style="color:#003366; font-weight:300">
+[<a href="https://yangyou1.weebly.com/uploads/1/3/3/8/133813498/job_market_s_reaction_to_covid_spending_v1.pdf" style="color:#003366; font-weight:450">
 Working Paper</a>]
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><span style="font-weight:300;">Abstract</span></summary>
@@ -61,7 +61,7 @@ Working Paper</a>]
 **5. Revisiting The Relationship Between Competition and Price Dispersion**  
 with Yihui Fu  
 *Finalist of Antitrust Writing Awards, Concurrences, 2023*  
-[<a href="https://www.dropbox.com/scl/fi/cwe8wjpc9m2pyeo3v6frn/airline_price_dispersion.pdf?rlkey=x8mmmu6po61mmyfe6ltvksy0b&st=3qs6mtej&dl=0" style="color:#003366; font-weight:300">
+[<a href="https://www.dropbox.com/scl/fi/cwe8wjpc9m2pyeo3v6frn/airline_price_dispersion.pdf?rlkey=x8mmmu6po61mmyfe6ltvksy0b&st=3qs6mtej&dl=0" style="color:#003366; font-weight:450">
 Working Paper</a>]
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><span style="font-weight:300;">Abstract</span></summary>
