@@ -102,11 +102,11 @@ with <a href="https://www.gingerjin.com/" style="color: #2A5DB0;">Ginger Jin</a>
 </details>
 
 **9. The Pro-competitive Effect of Vertical Mergers Using Large Invoice Data**  
-with <a href="https://sites.google.com/view/zhuwu/research?authuser=0" style="color: #2A5DB0;">Wu Zhu</a>  
+with <a href="https://sites.google.com/view/zhuwu/about?authuser=0" style="color: #2A5DB0;">Wu Zhu</a>  
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><span style="font-weight:300;">Abstract</span></summary>
   <p style="text-align: justify;">
-
+  Using detailed data on firm-to-firm transactions and firm-to-firm shareholder network encompassing nearly 8 million firms, we enhance the conventional industry-level definition of vertical merger by introducing a novel definition at the product level. Contrary to theoretical expectations but aligning with findings by Hortacsu and Syverson (2014) and Magyari (2017), approximately one-third of vertically integrated entities exhibit no transactions both before and after integration. Among these non-transactional merging entities, most of them share common inputs and suppliers and they experienced a significant spike in input prices prior to the merger but a stable price after the merger, which implies that the merger motivation could be coping with the increasing cost pressure from the common input.
   </p>
 </details>
 
