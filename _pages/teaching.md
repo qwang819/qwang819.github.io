@@ -18,7 +18,7 @@ layout: single
 - Economics of Big Data — Ginger Jin (Spring 2025)
 - Cost and Benefit Analysis — Ephraim Leibtag (Spring 2023)
 - Money and Banking — Thomas Drechsel (Spring 2022)
-- Intermediate Macroeconomics - Martina Copelman (Fall 2021)
+- Intermediate Macroeconomics — Martina Copelman (Fall 2021)
 
 
 ## Peking University
