@@ -26,3 +26,7 @@ body.layout--home details p {
 .greedy-nav__toggle-mode {
   display: none !important;
 }
+
+.sidebar {
+  width: 280px;  /* default is ~250px, bump it up */
+}
