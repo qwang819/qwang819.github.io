@@ -96,7 +96,7 @@ with <a href="https://www.gingerjin.com/" style="color: #2A5DB0;">Ginger Jin</a>
 </details>
 
 **9. The Pro-competitive Effect of Vertical Mergers Using Large Invoice Data**  
-with <a href="https://www.sem.tsinghua.edu.cn/en/info/1216/7050.htm" style="color: #2A5DB0;">Wu Zhu</a>  
+with <a href="https://sites.google.com/view/zhuwu/about?authuser=0" style="color: #2A5DB0;">Wu Zhu</a>  
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><span style="font-weight:300;">Abstract</span></summary>
   <p style="text-align: justify;">
