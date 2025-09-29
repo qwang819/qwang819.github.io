@@ -9,7 +9,7 @@ layout: single
 
 **1. Innovation Path Choices in China’s EV Battery Industry**  
 *Dean Research Initiative Grant, 2025*  
-*Draft Coming Soon, Feel Free to Email me About Current Draft* 
+*Draft Coming Soon; Available upon Request* 
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
    <summary><span style="font-weight:300;">Abstract</span></summary>
    <p style="text-align: justify;">
