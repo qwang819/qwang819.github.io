@@ -36,6 +36,7 @@ Working Paper</a>]
 with <a href="https://www.brunopellegrino.com/" style="color: #2A5DB0;">Bruno Pellegrino</a>  
 [<a href="https://www.dropbox.com/scl/fi/p66b8dxl4a84ygqxhwjkc/monopoly_monopsony_network.pdf?rlkey=zxs17tirj24mom5yyjrbukje9&st=hig4q0fd&dl=0" style="color:#003366; font-weight:550">
 Working Paper</a>]
+*Scheduled Presentation at SEA 95th Annual Meeting, November 22-24, 2025*
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
    <summary><span style="font-weight:300;">Abstract</span></summary>
    <p style="text-align: justify;">
