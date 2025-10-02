@@ -24,7 +24,7 @@ layout: single
 with <a href="https://www.shanglyudeng.com/" style="color: #2A5DB0;">Shanglyu Deng</a>, <a href="https://www.marioleccese.com/" style="color: #2A5DB0;">Mario Leccese</a>, <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site:8000/" style="color: #2A5DB0;">Xuezhen Tao</a>  
 [<a href="https://www.dropbox.com/scl/fi/ekwd7xr9gylqls89li4d3/Horizontal-Mergers-and-Rival-Market-Structure.pdf?rlkey=kqyd9vxr4s9brteqlido5u1gk&st=78phgsl4&dl=0" style="color:#003366; font-weight:550">
 Working Paper</a>]  
-*Presentation by co-author at 23rd Annual International Industrial Organization Conference; 25th CEPR-JIE Conference on Applied Industrial Organization*  
+*Presented by co-author at 23rd Annual International Industrial Organization Conference; 25th CEPR-JIE Conference on Applied Industrial Organization*  
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><span style="font-weight:300;">Abstract</span></summary>
   <p style="text-align: justify;">
