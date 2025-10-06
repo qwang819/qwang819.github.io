@@ -115,7 +115,7 @@ with <a href="https://sites.google.com/view/zhuwu/about?authuser=0" style="color
   </p>
 </details>
 
-**10. Decoding Employers’ Remote Work Preference with Large Language Models**  
+**10. Decoding Employers’ Remote Work Preference With Large Language Models**  
 with <a href="https://jboehnke.com/" style="color: #2A5DB0;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #2A5DB0;">Richard Freeman</a>, <a href="https://yangyou1.weebly.com/" style="color: #2A5DB0;">Yang You</a>, and Boao Zhan  
 *Draft Coming Soon*
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
