@@ -43,7 +43,7 @@ with <a href="https://www.brunopellegrino.com/" style="color: #2A5DB0;">Bruno Pe
    </p>
 </details>
 
-**4. Covid-19 Fiscal Spending and Job Openings**  
+**4. Fiscal Stimuli and the Reorganization of Firm Labor Demand:  Evidence from Job Postings**  
 with <a href="https://jboehnke.com/" style="color: #2A5DB0;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #2A5DB0;">Richard Freeman</a>, Yuxi Yang, and <a href="https://yangyou1.weebly.com/" style="color: #2A5DB0;">Yang You</a>  
 [<a href="https://yangyou1.weebly.com/uploads/1/3/3/8/133813498/job_market_s_reaction_to_covid_spending_v1.pdf" style="color:#003366; font-weight:550">
 Working Paper</a>]  
