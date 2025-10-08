@@ -47,7 +47,8 @@ with <a href="https://www.brunopellegrino.com/" style="color: #2A5DB0;">Bruno Pe
 with <a href="https://jboehnke.com/" style="color: #2A5DB0;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #2A5DB0;">Richard Freeman</a>, Yuxi Yang, and <a href="https://yangyou1.weebly.com/" style="color: #2A5DB0;">Yang You</a>  
 [<a href="https://yangyou1.weebly.com/uploads/1/3/3/8/133813498/job_market_s_reaction_to_covid_spending_v1.pdf" style="color:#003366; font-weight:550">
 Working Paper</a>]  
-*Preparing for Submission*
+*Preparing for Submission*  
+<span style="color:#990000; font-weight:600;">NSF Award No. 2031792, 2020</span>  
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><span style="font-weight:300;">Abstract</span></summary>
   <p style="text-align: justify;">
