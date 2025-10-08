@@ -67,9 +67,9 @@ Working Paper</a>]
 
 **5. Revisiting The Relationship Between Competition and Price Dispersion**  
 with Yihui Fu  
-*Finalist of Antitrust Writing Awards, Concurrences, 2023*  
 [<a href="https://www.dropbox.com/scl/fi/cwe8wjpc9m2pyeo3v6frn/airline_price_dispersion.pdf?rlkey=x8mmmu6po61mmyfe6ltvksy0b&st=3qs6mtej&dl=0" style="color:#003366; font-weight:550">
-Working Paper</a>]
+Working Paper</a>]  
+*Finalist of Antitrust Writing Awards, Concurrences, 2023*  
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><span style="font-weight:300;">Abstract</span></summary>
   <p style="text-align: justify;">
