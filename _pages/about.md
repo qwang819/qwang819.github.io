@@ -66,7 +66,7 @@ Working Paper</a>]
   </p>
 </details>
 
-**5. Revisiting The Relationship Between Competition and Price Dispersion**  
+**5. Revisiting the Relationship Between Competition and Price Dispersion**  
 with Yihui Fu  
 [<a href="https://www.dropbox.com/scl/fi/cwe8wjpc9m2pyeo3v6frn/airline_price_dispersion.pdf?rlkey=x8mmmu6po61mmyfe6ltvksy0b&st=3qs6mtej&dl=0" style="color:#003366; font-weight:550">
 Working Paper</a>]  
