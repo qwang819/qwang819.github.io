@@ -118,7 +118,7 @@ with <a href="https://sites.google.com/view/zhuwu/about?authuser=0" style="color
 
 **10. Employers’ Demand for Remote Work: Evidence from Large Language Models of Job Postings**  
 with <a href="https://jboehnke.com/" style="color: #2A5DB0;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #2A5DB0;">Richard Freeman</a>, <a href="https://yangyou1.weebly.com/" style="color: #2A5DB0;">Yang You</a>, and Boao Zhan  
-* Forthcoming on NBER*
+*Forthcoming on NBER*  
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><span style="font-weight:300;">Abstract</span></summary>
   <p style="text-align: justify;">
