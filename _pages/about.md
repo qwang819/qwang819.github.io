@@ -122,6 +122,6 @@ with <a href="https://jboehnke.com/" style="color: #2A5DB0;">Jörn Boehnke</a>, 
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><span style="font-weight:300;">Abstract</span></summary>
   <p style="text-align: justify;">
-
+  The location of work in the US changed massively during the COVID-19 pandemic crisis as firms shifted jobs from their business premises to remote locations, primarily workers’ homes, producing a jump in the Work-From-Home (WFH) share of wage & salary (W&S) employment from 6% in February 2020 to 43% in May 2020. When the pandemic receded and firms reopened offices, the WFH share of jobs fell gradually but remained three times its pre-pandemic level through the mid-2020s. This paper use internet job postings – announcements of positions firms seek to fill – to analyze the pandemic increase in demand for remote work in the pandemic and ensuing reduction over time. We develop a cost-effective algorithm to estimate the likelihood that a job posting is amenable to WFH from its text and use this estimated WFH share of postings as our measure of the location of employer demand for labor. Our analysis finds that: the WFH share of postings varies similarly but more volatilely than the WFH share of employment; varies among occupations and industries depending on their technological “tele-portability”. The WFH share also varies among firms seeking workers in the same occupation in the same industry, which suggests an important role for the economic performance of the firm and managerial policies.
   </p>
 </details>
