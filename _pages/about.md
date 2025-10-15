@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate from the Department of Economics at University of Maryland, College Park. My research applies empirical methods from industrial organization to a range of topics, including innovation, antitrust, energy, transportation, consumer protection, and policy evaluation. I received both my BA (2017) and MA (2020) from Peking University, China.
 
-I am on the 2025/26 job market. Here is my <a href="https://www.dropbox.com/scl/fi/8avjx0pnjahkhmkvczokv/CV_QianWang_General.pdf?rlkey=hvs87h1efrb5oseddrqmbxrdb&st=hea2x2oq&dl=0" >
+I am on the 2025/26 job market. Here is my <a href="https://www.dropbox.com/scl/fi/b1hjfghj2sjn7hl1lgc8c/CV_QianWang_General.pdf?rlkey=ml7atiswcsleeww6kcklbqult&st=c0yf0esv&dl=0" >
 Curriculum Vitae</a>.
 
 Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
