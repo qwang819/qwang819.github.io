@@ -56,14 +56,14 @@ Working Paper</a>]
 
 **4. Fiscal Stimuli and Reorganization of Firm Labor Demand:  Evidence from Job Postings**  
 with <a href="https://jboehnke.com/" style="color: #2A5DB0;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #2A5DB0;">Richard Freeman</a>, Yuxi Yang, and <a href="https://yangyou1.weebly.com/" style="color: #2A5DB0;">Yang You</a>  
-[<a href="https://yangyou1.weebly.com/uploads/1/3/3/8/133813498/job_market_s_reaction_to_covid_spending_v1.pdf" style="color:#003366; font-weight:550">
+[<a href="https://www.dropbox.com/scl/fi/9imccz2kr91de77567sy6/PPP_draft_20251107.pdf?rlkey=o7dadi8knzub724n2f3lbpohp&st=qawy8exr&dl=0" style="color:#003366; font-weight:550">
 Working Paper</a>]  
 *Preparing for Submission*  
 <span style="color:#990000; font-weight:600;">NSF Award No. 2031792, 2020</span>  
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><span style="font-weight:300;">Abstract</span></summary>
   <p style="text-align: justify;">
-  We analyze a novel transaction-level pandemic-related government spending of $1.27 trillion and document that companies receiving more government funding experienced faster recovery in labor demand— a one percent increase in the award amount (0.48 million) led to 0.15% more job postings relative to the 2019 average. To gauge the magnitude, we find that a job posting response of one percent additional COVID spending is equivalent to a 1.55 percent revenue increase. New job creation mainly concentrates on transportation and construction industries and restores the occupation composition toward pre-COVID labor demand. However, further exploring the heterogeneity of job creation, we find that firms that receive more funding require only slightly lower education, and no evidence shows a stronger demand for on-site jobs or occupations with more in-person interaction. Our findings are consistent with the view that firms use government fiscal expenditure to insure themselves against the pandemic shocks and maintain standard employment structures, rather than disproportionately hiring necessary workers for COVID-19. 
+  We analyze $1.56 trillion in pandemic-related government spending and find that companies receiving more funds experienced faster labor demand recovery. A 1% increase in award amount ($0.48 million) led to a 0.15% increase in job postings relative to the 2019 average. Job creation mainly concentrated in the transportation and construction industries, restoring occupation composition toward pre-COVID levels. However, further analysis shows that firms receiving more funding did not significantly lower their education requirements and did not increase demand for on-site jobs or positions requiring in-person interaction. Our findings suggest that firms used government funds to stabilize their existing employment structures rather than prioritizing the hiring of essential workers.
   </p>
 </details>
 
