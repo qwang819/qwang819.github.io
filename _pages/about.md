@@ -44,7 +44,7 @@ Working Paper</a>]
 
 **3. Monopoly and Monopsony in a Networked Economy**  
 with <a href="https://www.brunopellegrino.com/" style="color: #2A5DB0;">Bruno Pellegrino</a>  
-[<a href="https://www.dropbox.com/scl/fi/p66b8dxl4a84ygqxhwjkc/monopoly_monopsony_network.pdf?rlkey=zxs17tirj24mom5yyjrbukje9&st=zigg12u0&dl=0" style="color:#003366; font-weight:550">
+[<a href="https://www.dropbox.com/scl/fi/z53oa3nzh4j25pk3em70v/monopoly_monopsony_network.pdf?rlkey=yyyx9d0sbzzketn8byy4s92pq&st=1h5qjwhi&dl=0" style="color:#003366; font-weight:550">
 Working Paper</a>]   
 *Scheduled Presentation at SEA 95th Annual Meeting, November 22-24, 2025*
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
