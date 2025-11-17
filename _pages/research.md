@@ -9,7 +9,7 @@ layout: single
 
 **1. Innovation Path Choices in China’s Electric Vehicle Battery Industry**  
 *Dean Research Initiative Grant, 2025*  
-[<a href="https://www.dropbox.com/scl/fi/3m42ouwtzkw93a6a8qlri/QianWang_JMP_20251029.pdf?rlkey=v1t2dx8ti9oy42y4ymolz2lt6&st=0pkoghqy&dl=0" style="color:#003366; font-weight:550">
+[<a href="https://www.dropbox.com/scl/fi/uvtgwjm8rx1vrqjy8sdi6/QianWang_JMP_20251117.pdf?rlkey=fu3gj527mxm2zdhl2roihyx9s&st=sto79wbr&dl=0" style="color:#003366; font-weight:550">
 Draft</a>]  
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
    <summary><span style="font-weight:300;">Abstract</span></summary>
