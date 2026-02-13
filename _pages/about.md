@@ -19,8 +19,8 @@ Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
 
 **1. Innovation Path Choices in China’s Electric Vehicle Battery Industry**  
 *Dean Research Initiative Grant, 2025*  
-[<a href="https://www.dropbox.com/scl/fi/uvtgwjm8rx1vrqjy8sdi6/QianWang_JMP_20251117.pdf?rlkey=fu3gj527mxm2zdhl2roihyx9s&st=sto79wbr&dl=0" style="color:#003366; font-weight:550">
-Draft</a>]  
+[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6168655" style="color:#003366; font-weight:550">
+SSRN</a>]  
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
    <summary><span style="font-weight:300;">Abstract</span></summary>
    <p style="text-align: justify;">
