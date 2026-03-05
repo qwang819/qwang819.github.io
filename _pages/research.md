@@ -22,8 +22,7 @@ SSRN</a>]
 
 **2. Horizontal Mergers and Rival Market Structure**  
 with <a href="https://www.shanglyudeng.com/" style="color: #2A5DB0;">Shanglyu Deng</a>, <a href="https://www.marioleccese.com/" style="color: #2A5DB0;">Mario Leccese</a>, <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site:8000/" style="color: #2A5DB0;">Xuezhen Tao</a>  
-[<a href="https://www.dropbox.com/scl/fi/ekwd7xr9gylqls89li4d3/Horizontal-Mergers-and-Rival-Market-Structure.pdf?rlkey=kqyd9vxr4s9brteqlido5u1gk&st=78phgsl4&dl=0" style="color:#003366; font-weight:550">
-Working Paper</a>]  
+
 *Presented by co-author at 23rd Annual International Industrial Organization Conference; 25th CEPR-JIE Conference on Applied Industrial Organization*  
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><span style="font-weight:300;">Abstract</span></summary>
@@ -34,8 +33,7 @@ Working Paper</a>]
 
 **3. Monopoly and Monopsony in a Networked Economy**  
 with <a href="https://www.brunopellegrino.com/" style="color: #2A5DB0;">Bruno Pellegrino</a>  
-[<a href="https://www.dropbox.com/scl/fi/z53oa3nzh4j25pk3em70v/monopoly_monopsony_network.pdf?rlkey=yyyx9d0sbzzketn8byy4s92pq&st=1h5qjwhi&dl=0" style="color:#003366; font-weight:550">
-Working Paper</a>]   
+
 *Presented at SEA 95th Annual Meeting*
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
    <summary><span style="font-weight:300;">Abstract</span></summary>
@@ -46,8 +44,7 @@ Working Paper</a>]
 
 **4. Fiscal Stimuli and Reorganization of Firm Labor Demand:  Evidence from Job Postings**  
 with <a href="https://jboehnke.com/" style="color: #2A5DB0;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #2A5DB0;">Richard Freeman</a>, Yuxi Yang, and <a href="https://yangyou1.weebly.com/" style="color: #2A5DB0;">Yang You</a>  
-[<a href="https://www.dropbox.com/scl/fi/9imccz2kr91de77567sy6/PPP_draft_20251107.pdf?rlkey=o7dadi8knzub724n2f3lbpohp&st=qawy8exr&dl=0" style="color:#003366; font-weight:550">
-Working Paper</a>]  
+
 *Preparing for Submission*  
 <span style="color:#990000; font-weight:600;">NSF Award No. 2031792, 2020</span>  
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
@@ -59,8 +56,7 @@ Working Paper</a>]
 
 **5. Revisiting the Relationship Between Competition and Price Dispersion**  
 with Yihui Fu  
-[<a href="https://www.dropbox.com/scl/fi/cwe8wjpc9m2pyeo3v6frn/airline_price_dispersion.pdf?rlkey=x8mmmu6po61mmyfe6ltvksy0b&st=3qs6mtej&dl=0" style="color:#003366; font-weight:550">
-Working Paper</a>]  
+ 
 *Finalist of Antitrust Writing Awards, Concurrences, 2023*  
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><span style="font-weight:300;">Abstract</span></summary>
@@ -78,8 +74,7 @@ with <a href="https://www.louispreonas.com/" style="color: #2A5DB0;">Louis Preon
 
 **7. Output Signaling in Oligopoly**  
 with <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #2A5DB0;">Xuezhen Tao</a>  
-[<a href="https://cepr.org/publications/dp19757" style="color:#003366; font-weight:550">
-Previous Version *CEPR Discussion Paper DP19757*</a>]
+
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><span style="font-weight:300;">Abstract</span></summary>
   <p style="text-align: justify;">
