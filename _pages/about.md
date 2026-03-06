@@ -92,6 +92,8 @@ with <a href="https://www.louispreonas.com/" style="color: #2A5DB0;">Louis Preon
 
 **7. Output Signaling in Oligopoly**  
 with <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site:8000/" style="color: #2A5DB0;">Xuezhen Tao</a>  
+
+*Previously on CEPR DP19757* 
 <details style="margin-top: -0.5rem; margin-bottom: 1rem;">
   <summary><span style="font-weight:300;">Abstract</span></summary>
   <p style="text-align: justify;">
