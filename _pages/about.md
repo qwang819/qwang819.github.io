@@ -22,7 +22,7 @@ Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
 
 *24th Annual International Industrial Organization Conference (Scheduled for April 2026)* 
 
-*2026 CES NA Annual Conference (Scheduled for March 2026)* 
+*Presented at 2026 CES NA Annual Conference* 
 
 [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6168655" style="color:#003366; font-weight:550">
 SSRN</a>]  
