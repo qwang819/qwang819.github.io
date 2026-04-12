@@ -18,11 +18,10 @@ Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
 ## Job Market Paper
 
 **1. Innovation Path Choices in China’s Electric Vehicle Battery Industry**  
-*Dean Research Initiative Grant, 2025*  
 
-*24th Annual International Industrial Organization Conference (Best Rising Star Paper Prize-Alfred P. Sloan Foundation)* 
+*International Industrial Organization Conference (Best Rising Star Paper Prize-Alfred P. Sloan Foundation), 2026* 
 
-*2026 CES NA Annual Conference (Presented)* 
+*Dean Research Initiative Grant, 2025*
 
 [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6168655" style="color:#003366; font-weight:550">
 SSRN</a>]  
