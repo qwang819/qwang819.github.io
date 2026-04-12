@@ -8,11 +8,14 @@ layout: single
 ## Job Market Paper
 
 **1. Innovation Path Choices in China’s Electric Vehicle Battery Industry**  
+
+*2026 International Industrial Organization Conference (Best Rising Star Paper Prize-Alfred P. Sloan Foundation)* 
+
+*2026 CES NA Annual Conference (Presented)* 
+
 *Dean Research Initiative Grant, 2025*
 
-*24th Annual International Industrial Organization Conference (Scheduled for April 2026)*
 
-*Presented at 2026 CES NA Annual Conference*
   
 [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6168655" style="color:#003366; font-weight:550">
 SSRN</a>]  
