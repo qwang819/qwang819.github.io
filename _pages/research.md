@@ -9,7 +9,8 @@ layout: single
 
 **1. Innovation Path Choices in China’s Electric Vehicle Battery Industry**  
 
-*International Industrial Organization Conference (<span style="background: #E6F1FB; color: #0C447C; padding: 1px 7px; border-radius: 4px; font-weight: 500;">Best Rising Star Paper Prize — Alfred P. Sloan Foundation</span>), 2026*
+*International Industrial Organization Conference, 2026* 
+(<span style="background: #E6F1FB; color: #0C447C; padding: 1px 7px; border-radius: 4px; font-weight: 500;">Best Rising Star Paper Prize — Alfred P. Sloan Foundation</span>)
 
 *Dean Research Initiative Grant, 2025*
 
