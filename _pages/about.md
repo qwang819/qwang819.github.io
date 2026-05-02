@@ -20,7 +20,6 @@ Email: <a href="mailto:qwang819@umd.edu">qwang819@umd.edu</a>
 **1. Innovation Path Choices in China’s Electric Vehicle Battery Industry**  
 
 *International Industrial Organization Conference, 2026*<br> 
-
 <span style="background: #E6F1FB; color: #0C447C; padding: 1px 7px; border-radius: 4px; font-weight: 500;">Best Rising Star Paper Prize — Alfred P. Sloan Foundation</span>
 
 [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6168655" style="color:#003366; font-weight:550">
