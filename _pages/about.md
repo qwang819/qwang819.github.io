@@ -62,24 +62,14 @@ with <a href="https://jboehnke.com/" style="color: #2A5DB0;">Jörn Boehnke</a>, 
 
 
 <span style="color:#990000; font-weight:600;">NSF Award No. 2031792, 2020</span>  
-<details style="margin-top: -0.5rem; margin-bottom: 1rem;">
-  <summary><span style="font-weight:300;">Abstract</span></summary>
-  <p style="text-align: justify;">
-  We analyze $1.56 trillion in pandemic-related government spending and find that companies receiving more funds experienced faster labor demand recovery. A 1% increase in award amount ($0.48 million) led to a 0.15% increase in job postings relative to the 2019 average. Job creation mainly concentrated in the transportation and construction industries, restoring occupation composition toward pre-COVID levels. However, further analysis shows that firms receiving more funding did not significantly lower their education requirements and did not increase demand for on-site jobs or positions requiring in-person interaction. Our findings suggest that firms used government funds to stabilize their existing employment structures rather than prioritizing the hiring of essential workers.
-  </p>
-</details>
+
 
 **5. Revisiting the Relationship Between Competition and Price Dispersion**  
 with Yihui Fu  
 
 
 *Finalist of Antitrust Writing Awards, Concurrences, 2023*  
-<details style="margin-top: -0.5rem; margin-bottom: 1rem;">
-  <summary><span style="font-weight:300;">Abstract</span></summary>
-  <p style="text-align: justify;">
-  Using novel granular data covering price and booking information of flights, we test the theory that predicts how the competition will affect price dispersion. We complement past price dispersion studies by making two contributions: First, we accurately identify and isolate three types of price dispersion originating from either third-degree price discrimination or peak-lead pricing. Second, we test the relative contribution of industry-elasticity and cross-price elasticity to price dispersion. Results suggest that both cross-price elasticity and industry-elasticity are crucial in determining the relationship between price dispersion and competition. Consistent with Borenstein and Rose (1994), we find that more competition will increase both intertemporal price dispersion and across-date price dispersion but not the across-departure-time price dispersion. Buying tickets earlier and buying flights on non-popular dates benefit more from competition.
-  </p>
-</details>
+
 
 
 ## Work in Progress
@@ -91,39 +81,16 @@ with <a href="https://www.louispreonas.com/" style="color: #2A5DB0;">Louis Preon
 **7. Output Signaling in Oligopoly**  
 with <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site:8000/" style="color: #2A5DB0;">Xuezhen Tao</a>  
 *Previously on CEPR DP19757* 
-<details style="margin-top: -0.5rem; margin-bottom: 1rem;">
-  <summary><span style="font-weight:300;">Abstract</span></summary>
-  <p style="text-align: justify;">
-  We consider models of repeated oligopoly competition where firms set quantities and have private information about their serially correlated marginal costs. This structure creates strategic incentives for firms to signal information about their costs using output choices. We show that effects on outputs, production efficiency and welfare can be much larger than the effects of incomplete information in one-shot models, and that these differences persist even in oligopolies with large numbers of firms. In contrast, in price-setting games, we always find smaller effects in less concentrated markets. We illustrate these effects in an application by extending Aryal and Zincenko (2024) analysis of the world crude oil market, showing that allowing signaling changes conclusions and counterfactuals significantly.
-  </p>
-</details>
+
 
 **8. Will the Ban on Overbooking in the Airline Industry Backfire on Consumers?**  
 with <a href="https://www.gingerjin.com/" style="color: #2A5DB0;">Ginger Jin</a>  
 *Poster Presentation at DC Industrial-Organization Day, May 2024*
-<details style="margin-top: -0.5rem; margin-bottom: 1rem;">
-  <summary><span style="font-weight:300;">Abstract</span></summary>
-  <p style="text-align: justify;">
-  The practice of overselling, while contentious, has remained a legal strategy in the airline industry for a long time. On one hand, overselling exposes passengers to the risk of being involuntarily bumped from their flights. On the other hand, overselling enables airlines to keep efficient operations and maintain low fares. This paper aims to study the welfare implications of overselling, examine the potential effects of a ban on this practice and explore alternative remedies. We start with a reduced-form analysis, centering on the public relations debacle involving United Airlines (UA) in 2017. The results highlight a substantial increase in the lower end of UA's price distribution and a corresponding decrease in its load factor following a reduction in overselling. Subsequently, we construct a novel structural model that incorporates consumer considerations of bumping risk in their decision-making process, while carriers strategically leverage no-shows to facilitate overselling. Finally, we contemplate three counterfactual scenarios: the prohibition of overselling, heightened public awareness, and increased bumping compensation.
 
-  </p>
-</details>
 
 **9. The Pro-competitive Effect of Vertical Mergers Using Large Invoice Data**  
 with <a href="https://sites.google.com/view/zhuwu/about?authuser=0" style="color: #2A5DB0;">Wu Zhu</a>  
-<details style="margin-top: -0.5rem; margin-bottom: 1rem;">
-  <summary><span style="font-weight:300;">Abstract</span></summary>
-  <p style="text-align: justify;">
-  Using detailed data on firm-to-firm transactions and firm-to-firm shareholder network encompassing nearly 8 million firms, we enhance the conventional industry-level definition of vertical merger by introducing a novel definition at the product level. Contrary to theoretical expectations but aligning with findings by Hortacsu and Syverson (2014) and Magyari (2017), approximately one-third of vertically integrated entities exhibit no transactions both before and after integration. Among these non-transactional merging entities, most of them share common inputs and suppliers and they experienced a significant spike in input prices prior to the merger but a stable price after the merger, which implies that the merger motivation could be coping with the increasing cost pressure from the common input.
-  </p>
-</details>
 
 **10. Employers’ Demand for Remote Work: Evidence from Large Language Models of Job Postings**  
 with <a href="https://jboehnke.com/" style="color: #2A5DB0;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #2A5DB0;">Richard Freeman</a>, <a href="https://yangyou1.weebly.com/" style="color: #2A5DB0;">Yang You</a>, and Boao Zhan  
 
-<details style="margin-top: -0.5rem; margin-bottom: 1rem;">
-  <summary><span style="font-weight:300;">Abstract</span></summary>
-  <p style="text-align: justify;">
-  The location of work in the US changed massively during the COVID-19 pandemic crisis as firms shifted jobs from their business premises to remote locations, primarily workers’ homes, producing a jump in the Work-From-Home (WFH) share of wage & salary (W&S) employment from 6% in February 2020 to 43% in May 2020. When the pandemic receded and firms reopened offices, the WFH share of jobs fell gradually but remained three times its pre-pandemic level through the mid-2020s. This paper use internet job postings – announcements of positions firms seek to fill – to analyze the pandemic increase in demand for remote work in the pandemic and ensuing reduction over time. We develop a cost-effective algorithm to estimate the likelihood that a job posting is amenable to WFH from its text and use this estimated WFH share of postings as our measure of the location of employer demand for labor. Our analysis finds that: the WFH share of postings varies similarly but more volatilely than the WFH share of employment; varies among occupations and industries depending on their technological “tele-portability”. The WFH share also varies among firms seeking workers in the same occupation in the same industry, which suggests an important role for the economic performance of the firm and managerial policies.
-  </p>
-</details>
