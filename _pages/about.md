@@ -8,7 +8,7 @@ redirect_from:
  - /about.html
 ---
 
-I am a Ph.D. candidate from the Department of Economics at University of Maryland, College Park. My research applies empirical methods from industrial organization to a range of topics, including innovation, antitrust, energy, transportation, consumer protection, and policy evaluation. I received both my BA (2017) and MA (2020) from Peking University, China. Here is my <a href="https://www.dropbox.com/scl/fi/3hs1ys4ihek9a9y38mj7p/CV_QianWang_20260416.pdf?rlkey=t8zetjeiasnzuq8pudosxdyhs&st=0d8ak677&dl=0" >
+I am a Ph.D. candidate from the Department of Economics at University of Maryland, College Park. My research applies empirical methods from industrial organization to a range of topics, including innovation, antitrust, energy, transportation, consumer protection, and policy evaluation. I received both my BA (2017) and MA (2020) from Peking University, China. Here is my <a href="https://www.dropbox.com/scl/fi/9l4caio591r0qfnabrjm4/CV_QianWang_General_v17.pdf?rlkey=kyq7we6lhdiwxk52b5zedkcqo&st=5w17slrc&dl=0" >
 Curriculum Vitae</a>. My name is pronouced *chee-EN wahng*.
 
 I will join Sciences Po as an assistant professor in Fall 2026.
