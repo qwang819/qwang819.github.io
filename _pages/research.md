@@ -52,7 +52,7 @@ with <a href="https://www.brunopellegrino.com/" style="color: #2A5DB0;">Bruno Pe
 with <a href="https://jboehnke.com/" style="color: #2A5DB0;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #2A5DB0;">Richard Freeman</a>, Yuxi Yang, and <a href="https://yangyou1.weebly.com/" style="color: #2A5DB0;">Yang You</a>  
 
 
-<span style="color:#990000; font-weight:600;">NSF Award No. 2031792, 2020</span>  
+ 
 
 
 **5. Revisiting the Relationship Between Competition and Price Dispersion**  
@@ -67,7 +67,7 @@ with Yihui Fu
 
 **6. Supplier Market Power in the Energy Transition: An Empirical Study of Coal Mines, Railroads, and Power Plants**  
 with <a href="https://www.louispreonas.com/" style="color: #2A5DB0;">Louis Preonas</a>, <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting</a>, and Jingyi Xing  
-<span style="color:#990000; font-weight:600;">NSF Award No. 2447007, 2025</span>
+
 
 **7. Output Signaling in Oligopoly**  
 with <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting</a>, and <a href="https://www.xuezhentao.site" style="color: #2A5DB0;">Xuezhen Tao</a>  
