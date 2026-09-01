@@ -29,11 +29,11 @@ author:
   avatar           : "headshot.jpg"
   name             : "Qian Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate in Economics"
-  location         : "College Park, MD"
-  employer         : "University of Maryland"
+  # bio              : "Ph.D. Candidate in Economics"
+  # location         : "College Park, MD"
+  employer         : "Sciences Po"
   uri              : # URL
-  email            : "qwang819@umd.edu" 
+  email            : "qian.wang@sciencespo.fr" 
 
   # Academic websites
   academia         : # URL
