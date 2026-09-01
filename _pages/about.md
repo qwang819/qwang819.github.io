@@ -8,7 +8,9 @@ redirect_from:
  - /about.html
 ---
 
-I am an Assistant Professor of Economics at Sciences Po. My research applies empirical methods from industrial organization to a range of topics, including innovation, antitrust, energy, transportation, and policy design. Before joining Sciences Po, I received my PhD in Economics from University of Maryland, College Park and received both my Bachelor and Master degrees from Peking University, China. Here is my <a href="https://www.dropbox.com/scl/fi/9l4caio591r0qfnabrjm4/CV_QianWang_General_v17.pdf?rlkey=kyq7we6lhdiwxk52b5zedkcqo&st=5w17slrc&dl=0" >
+I am an Assistant Professor of Economics at Sciences Po. My research applies empirical methods from industrial organization to a range of topics, including innovation, antitrust, energy, transportation, and policy design. 
+
+Before joining Sciences Po, I received my PhD in Economics from University of Maryland, College Park and received both my Bachelor and Master degrees from Peking University, China. Here is my <a href="https://www.dropbox.com/scl/fi/9l4caio591r0qfnabrjm4/CV_QianWang_General_v17.pdf?rlkey=kyq7we6lhdiwxk52b5zedkcqo&st=5w17slrc&dl=0" >
 Curriculum Vitae</a>. My name is pronouced *chee-EN wahng*.
 
 Email: <a href="mailto:qian.wang@sciencespo.fr">qian.wang[at]sciencespo.fr</a>
