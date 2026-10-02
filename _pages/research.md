@@ -76,14 +76,10 @@ with <a href="http://www.asweeting.com/" style="color: #2A5DB0;">Andrew Sweeting
 
 **8. Will the Ban on Overbooking in the Airline Industry Backfire on Consumers?**  
 with <a href="https://www.gingerjin.com/" style="color: #2A5DB0;">Ginger Jin</a>  
-*Poster Presentation at DC Industrial-Organization Day, May 2024*
+*Poster Presentation at DC Industrial-Organization Day, May 2024* 
 
 
-**9. The Pro-competitive Effect of Vertical Mergers Using Large Invoice Data**  
-with <a href="https://sites.google.com/view/zhuwu/about?authuser=0" style="color: #2A5DB0;">Wu Zhu</a>  
-
-
-**10. Employers’ Demand for Remote Work: Evidence from Large Language Models of Job Postings**  
+**9. Employers’ Demand for Remote Work: Evidence from Large Language Models of Job Postings**  
 with <a href="https://jboehnke.com/" style="color: #2A5DB0;">Jörn Boehnke</a>, <a href="https://freeman.scholars.harvard.edu/" style="color: #2A5DB0;">Richard Freeman</a>, <a href="https://yangyou1.weebly.com/" style="color: #2A5DB0;">Yang You</a>, and Boao Zhan  
  
 
