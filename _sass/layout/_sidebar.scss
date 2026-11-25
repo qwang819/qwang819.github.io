@@ -93,9 +93,21 @@
     height: auto;
   }
 
-  img {
-    max-width: 175px;
-    border-radius: 50%;
+  // img {
+  //   max-width: 175px;
+  //   border-radius: 50%;
+
+  //   @include breakpoint($large) {
+  //     padding: 5px;
+  //     border: 1px solid var(--global-border-color);
+  //   }
+  // }
+
+   img {
+    max-width: 175px;      // raise this (e.g. 220px) for a bigger photo
+    width: 100%;
+    height: auto;          // keeps the photo's own proportions
+    border-radius: 0;      // was 50% (the circle)
 
     @include breakpoint($large) {
       padding: 5px;
