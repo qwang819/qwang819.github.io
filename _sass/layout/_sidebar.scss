@@ -24,8 +24,9 @@
     padding-top: $masthead-height;
   }
 
-  @include breakpoint($large) {
-    @include span(2 of 12);
+    @include breakpoint($large) {
+    @include span(3 of 12);
+    max-width: 260px;
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -36,7 +37,7 @@
   }
 
   @include breakpoint($x-large) {
-    max-width: $sidebar-link-max-width;
+    max-width: 260px;
     padding-right: 0;
   }
 
